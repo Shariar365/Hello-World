@@ -5,10 +5,9 @@
 CodePath pre-work app
 
 ### App Walk-though
-
-![](https://imgur.com/ylDc8PH.gif)
-![](https://imgur.com/ercIzyi.gif)
-![](https://imgur.com/rSwlVeA.gif)
+<img src="https://imgur.com/ylDc8PH.gif" width=200><br>
+<img src="https://imgur.com/ercIzyi.gif" width=200><br>
+<img src="https://imgur.com/rSwlVeA.gif" width=200><br>
 
 
 ### Required User Stories
