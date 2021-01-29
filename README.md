@@ -6,9 +6,9 @@ CodePath pre-work app
 
 ### App Walk-though
 
-<img src="https://share.getcloudapp.com/P8ukjWZ8" 
-<img src="https://share.getcloudapp.com/d5uwxzlr" 
-<img src="https://share.getcloudapp.com/9Zu8rYq5" 
+https://share.getcloudapp.com/P8ukjWZ8.gif
+https://share.getcloudapp.com/d5uwxzlr.gif
+https://share.getcloudapp.com/9Zu8rYq5.gif
 
 
 ### Required User Stories
