@@ -6,7 +6,7 @@ CodePath pre-work app
 
 ### App Walk-though
 
-[Imgur](https://imgur.com/ylDc8PH)
+![](https://imgur.com/ylDc8PH.gif)
 
 
 ### Required User Stories
