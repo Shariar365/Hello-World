@@ -6,9 +6,7 @@ CodePath pre-work app
 
 ### App Walk-though
 
-https://share.getcloudapp.com/P8ukjWZ8.gif
-https://share.getcloudapp.com/d5uwxzlr.gif
-https://share.getcloudapp.com/9Zu8rYq5.gif
+https://imgur.com/ylDc8PH.gif
 
 
 ### Required User Stories
