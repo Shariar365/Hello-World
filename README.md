@@ -2,16 +2,14 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+CodePath pre-work app
 
 ### App Walk-though
 
-<img src="https://share.getcloudapp.com/P8ukjWZ8" width=200><br>
-<img src="https://share.getcloudapp.com/d5uwxzlr" width=200><br>
-<img src="https://share.getcloudapp.com/9Zu8rYq5" width=200><br>
+<img src="https://share.getcloudapp.com/P8ukjWZ8" 
+<img src="https://share.getcloudapp.com/d5uwxzlr" 
+<img src="https://share.getcloudapp.com/9Zu8rYq5" 
 
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
